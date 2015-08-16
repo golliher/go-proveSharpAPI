@@ -131,4 +131,4 @@ There is a web server running on port 80 with a "A simple html+cgi example" bein
 # Reported by
 
 - Darrell Golliher, customer
-- Background and contact info available at http://gollliher.net
+- Background and contact info available at http://golliher.net
